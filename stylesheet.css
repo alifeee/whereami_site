@@ -1,0 +1,9 @@
+* {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+small {
+  opacity: 0.75;
+}
